@@ -1,0 +1,19 @@
+.mainAction{
+    padding-top: 25%;
+   
+    display: flex;
+    justify-content: center;
+    
+}
+/* @use "@material/button"; */
+.MuiButton_outlined {
+    color:white;
+/*     
+.custom-text-button,
+.custom-outlined-button {
+  --mdc-theme-primary: #ffffff;
+  --mdc-theme-on-primary: #303bd3; */
+
+  /* @include button.ink-color(#84565E); */
+}
+
